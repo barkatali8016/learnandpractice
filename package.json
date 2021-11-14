@@ -1,0 +1,19 @@
+{
+  "name": "learnandpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/barkatali8016/learnandpractice.git"
+  },
+  "author": "Barkat Ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barkatali8016/learnandpractice/issues"
+  },
+  "homepage": "https://github.com/barkatali8016/learnandpractice#readme"
+}
